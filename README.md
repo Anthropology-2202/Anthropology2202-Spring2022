@@ -1,3 +1,5 @@
-# :wave: Anthropology 2022
+# :wave: Welcome to Anthropology 2022! :wave:
 
-## This Github repository contains files for the Spring 2022 edition of Anthropology 2022 - Advanced GIS, at Brown University.
+## Contents
+
+This Github repository contains files for the Spring 2022 edition of Anthropology 2022 - Advanced GIS, at Brown University. Each laboratory exercise containisa 
