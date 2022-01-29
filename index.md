@@ -4,12 +4,6 @@
 
 ### To access the course syllabus, click [here](https://docs.google.com/document/d/1qATjDvlb68_4Sr6_xgs_B7aGfEEXTQextJNlDwQQEjw/edit?usp=sharing)
 
-# Anthropology 2202
-
-## 👋 Hi! Welcome to Anthropology 2202, a Course Being Taught at Brown Unviersity in Spring 2022
-
-### To access the course syllabus, click [here](https://docs.google.com/document/d/1qATjDvlb68_4Sr6_xgs_B7aGfEEXTQextJNlDwQQEjw/edit?usp=sharing)
-
 
 ## Here's some information on Assignment Numbers 0 and 1
 
@@ -21,7 +15,7 @@ This course assumes some previous experience in GIS. While we will review basic 
 
 In the team remaining in class, using your program of choice (ArcGIS Pro, QGIS or R), MAKE A MAP OF BROWN’S CAMPUS. Then, fill out the referenced google form. Your map should incorporate the following elements:
 
-1. A baseman of your choice
+1. A basemap of your choice
 2. A shape file containing the buildings on Brown’s campus, downloaded and unzipped from the class canvas website, in Files/Lab0
 3. A scale bar
 4. A north arrow
